@@ -1,2 +1,4 @@
-# Devops_Project1
-Docker_java_kuberenetes_project
+# docker-Java-kubernetes-project
+Deploying Java Applications with Docker and Kubernetes
+
+Credit: https://github.com/danielbryantuk/oreilly-docker-java-shopping/
